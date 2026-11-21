@@ -5,9 +5,7 @@
 # The Catalogue Photo of an Impossible Gadget
 
 A catalogue photograph of an impossible gadget: a canister vacuum cleaner
-sucking in its own power cord.
+sucking in its own power cord. The thick black cord runs taut in a diagonal
+across the frame, its plug end disappearing into the floor nozzle.
 
 Entry for https://make.fun/bounty/the-catalogue-photo-of-an-2-20261121-0341
-
-Run `python3 main.py` to copy `entry.png` to `$MAKEFUN_OUTPUT_DIR/entry.png`
-(default `/output`).
